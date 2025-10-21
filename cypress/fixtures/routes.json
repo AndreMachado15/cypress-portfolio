@@ -1,0 +1,7 @@
+{
+    "loginPage": "/auth/login",
+    "registerPage": "/auth/register",
+    "recoveryPage": "/auth/forgot-password",
+    "customerDashboard": "/account",
+    "adminDashboard": "/admin/dashboard"
+  }

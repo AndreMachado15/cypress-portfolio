@@ -1,0 +1,10 @@
+{
+    "admin": {
+        "email": "admin@practicesoftwaretesting.com",
+        "pass": "welcome01"
+    },
+    "customer": {
+        "email": "customer@practicesoftwaretesting.com",
+        "pass": "welcome01"
+    }
+}
