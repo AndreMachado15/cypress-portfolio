@@ -10,10 +10,5 @@ export default defineConfig({
     testIsolation: true,
     setupNodeEvents(on, config) {}
   },
-  env: {
-    adminUserEmail: process.env.CYPRESS_ADMIN_USER_EMAIL,
-    adminUserPass: process.env.CYPRESS_ADMIN_USER_PASSWORD,
-    customerUserEmail: process.env.CYPRESS_CUSTOMER_USER_EMAIL,
-    customerUserPass: process.env.CYPRESS_CUSTOMER_USER_PASSWORD
-  }
+  env: {}
 })
