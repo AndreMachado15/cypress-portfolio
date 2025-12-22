@@ -1,26 +1,26 @@
 {
-    "admin": {
-        "email": "admin@practicesoftwaretesting.com",
-        "pass": "welcome01"
-    },
-    "customer": {
-        "email": "customer@practicesoftwaretesting.com",
-        "pass": "welcome01"
-    },
-    "customerNoEmail": {
-        "email": null,
-        "pass": "welcome01"
-    },
-    "customerNoPass": {
-        "email": "customer@practicesoftwaretesting.com",
-        "pass": null
-    },
-    "customerInvalidEmail": {
-        "email": "email@",
-        "pass": "welcome01"
-    },
-    "customerShortPass": {
-        "email": "customer@practicesoftwaretesting.com",
-        "pass": "ab"
-    }
+  "admin": {
+    "email": "admin@practicesoftwaretesting.com",
+    "pass": "welcome01"
+  },
+  "customer": {
+    "email": "customer@practicesoftwaretesting.com",
+    "pass": "welcome01"
+  },
+  "customerNoEmail": {
+    "email": null,
+    "pass": "welcome01"
+  },
+  "customerNoPass": {
+    "email": "customer@practicesoftwaretesting.com",
+    "pass": null
+  },
+  "customerInvalidEmail": {
+    "email": "email@",
+    "pass": "welcome01"
+  },
+  "customerShortPass": {
+    "email": "customer@practicesoftwaretesting.com",
+    "pass": "ab"
+  }
 }
