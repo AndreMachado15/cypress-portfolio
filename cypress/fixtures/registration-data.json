@@ -38,7 +38,7 @@
     "email": "jane.smith@test.com",
     "password": "Welcome01@#$#%"
   },
-    "phoneInvalid": {
+  "phoneInvalid": {
     "firstName": "John Acem",
     "lastName": "Smith",
     "dob": "1990-01-01",
@@ -116,7 +116,7 @@
     "email": "eve.green@test.com",
     "password": "Testpassword1"
   },
-    "passwordLeaked": {
+  "passwordLeaked": {
     "firstName": "Eve",
     "lastName": "Green",
     "dob": "1991-04-04",
